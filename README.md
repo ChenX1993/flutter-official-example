@@ -18,13 +18,13 @@ A simple Flutter App following the official tutotials:
 
 1. Infinite ListView
 
-   ![]("./screenshots/infinitedList.png")
+   <img src="/sceenshots/infinitedList.png" height="400" width="200" />
 
 2. Favorite Item
-
-   ![]("./screenshots/favorite.png")
-
-   ![]("./screenshots/favoriteView.png")
+   
+   <img src="/sceenshots/favorite.png" height="400" width="200" />
+   
+   <img src="/sceenshots/favoriteView.png" height="400" width="200" />
 
    
 
